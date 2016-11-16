@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DZObjectProxy_Example' do
+  pod 'DZObjectProxy', :path => '../'
+
+  target 'DZObjectProxy_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
