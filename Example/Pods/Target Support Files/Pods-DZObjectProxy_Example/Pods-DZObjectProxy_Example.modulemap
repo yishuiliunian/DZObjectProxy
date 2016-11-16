@@ -1,0 +1,6 @@
+framework module Pods_DZObjectProxy_Example {
+  umbrella header "Pods-DZObjectProxy_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

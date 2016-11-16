@@ -1,0 +1,16 @@
+PODS:
+  - DZObjectProxy (0.1.0)
+
+DEPENDENCIES:
+  - DZObjectProxy (from `../`)
+
+EXTERNAL SOURCES:
+  DZObjectProxy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZObjectProxy: 3756071d38a1d8dc28e27d938f99e62d54580b6f
+
+PODFILE CHECKSUM: 16275cc0f3a3c7b5a3558fb852c7359c75890ea3
+
+COCOAPODS: 1.1.1
